@@ -1,6 +1,6 @@
 # ネットワーク対戦型オセロ和歌山大学
 
-和歌山大学での演習講義をRaspberryPiで動くように改良しました。
+和歌山大学での演習講義をRaspberryPiで動くように改良しました。  
 <http://yoslab.net/javaprog/>
 
 
@@ -11,10 +11,10 @@
 * White.jpg : 白石の画像
 
 通常Ver.オセロプログラム
-*MyClient.java
+* MyClient.java
 
 ジョイスティック制御Ver.オセロプログラム
-*PiClient.java
+* PiClient.java
 
 
 ## PiClient.javaの配線図
