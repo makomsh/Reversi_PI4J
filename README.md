@@ -33,6 +33,9 @@ pi4jのPIN番号とRPiデフォルトのPIN NAMEは違うので注意。
 3. Client実行
 
 
+![Alt text](https://github.com/makomsh/Reversi_PI4J/blob/master/image/image.jpg)
+
+
 自分のターンだとLEDが点灯するなどの衝突するようなプログラムはないはずですが、  
 PiClientを2つ同時に起動するのは避けてください。  
 
